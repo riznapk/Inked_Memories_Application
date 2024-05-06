@@ -1,0 +1,93 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`View order details 1`] = `
+<div>
+  <h2>
+    Order Details
+  </h2>
+  <p>
+    Order ID: 
+    123456
+  </p>
+  <p>
+    Order Placed Date: 
+    2023-08-06
+  </p>
+  <p>
+    Status: 
+    Processing
+  </p>
+  <p>
+    Payment: 
+    Credit Card
+  </p>
+  <p>
+    Amount: £
+    99.99
+  </p>
+  <h3>
+    Cart Items: 
+  </h3>
+  <div
+    style={
+      {
+        "marginBottom": "30px",
+        "marginTop": "30px",
+      }
+    }
+  >
+    <img
+      src="design-image.jpg"
+      style={
+        {
+          "height": "180px",
+          "objectFit": "contain",
+          "width": "180px",
+        }
+      }
+    />
+    <p>
+      Cart ID: 
+      cart123
+    </p>
+    <p>
+      Design Font: 
+      Arial
+    </p>
+    <p>
+      Design Price: £
+      49.99
+    </p>
+    <p>
+      Message: 
+      Test message for snapshot testing
+    </p>
+    <p>
+      Scheduled Date: 
+      2023-08-10
+    </p>
+    <p>
+      Letter: Included with the card
+    </p>
+    <h4>
+      Address: 
+    </h4>
+    <p>
+      Street Address: 
+      123 Main St
+    </p>
+    <p>
+      City: 
+      Cityville
+    </p>
+    <p>
+      County: 
+      Countyshire
+    </p>
+    <p>
+      Postal Code: 
+      12345
+    </p>
+  </div>
+</div>
+`;

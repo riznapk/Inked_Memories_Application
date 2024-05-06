@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PageNotFound component testing 1`] = `
+<div
+  className="sc-aXZVg cuTzES"
+>
+  <h1
+    className="sc-gEvEer epkMoJ"
+  >
+    404
+  </h1>
+  <p
+    className="sc-eqUAAy erewlt"
+  >
+    Page not found
+  </p>
+  <style
+    dangerouslySetInnerHTML={
+      {
+        "__html": ".css-jb1ygz-MuiTypography-root{margin:0;font-family:"Roboto","Helvetica","Arial",sans-serif;font-weight:400;font-size:1rem;line-height:1.5;letter-spacing:0.00938em;color:white;}",
+      }
+    }
+    data-emotion="css jb1ygz-MuiTypography-root"
+  />
+  <p
+    className="MuiTypography-root MuiTypography-body1 css-jb1ygz-MuiTypography-root"
+  >
+    Go To Home Page 
+    <a
+      href="/"
+      onClick={[Function]}
+      style={
+        {
+          "color": "#797d62",
+        }
+      }
+    >
+      Click here
+    </a>
+  </p>
+</div>
+`;
